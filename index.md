@@ -8,8 +8,6 @@
  growing with my journey. Should they happen to be advantageous for you, that's
  fantastic. If not, there's no need for concern. — onward we tinker and learn.
  
- To read this properly, go to https://github.com/patrick4370/notes/blob/main/index.md
-
 [Arch Fixes](Arch_Fixes.md)    
 [Arch Linux](Arch_Linux.md)    
 [Audio](Audio.md)  
