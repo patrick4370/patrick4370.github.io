@@ -1,0 +1,3 @@
+# Hardware
+
+[Index](index.md)
