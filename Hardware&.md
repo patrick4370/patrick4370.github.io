@@ -1,3 +1,0 @@
-# Hardware
-
-[Index](index.md)
